@@ -14,3 +14,12 @@ These are some of the technologies and tools I work with and study:
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=red)
 ![Insomnia](https://img.shields.io/badge/-Insominia-black?style=flat-square&logo=insomnia&logoColor=blue)
 
+
+### Contatos:
+  Me encontre nestas redes sociais.
+<div>
+<a href="https://www.linkedin.com/in/luis-felipe-rodrigo-silva-508347252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/luis__fellipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  <br>
+
