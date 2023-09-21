@@ -1,5 +1,5 @@
 ### Hi there 👋
- <h3>Tecnologias</h3>
+ <h3>Tecnologies</h3>
 
 These are some of the technologies and tools I work with and study:
 
