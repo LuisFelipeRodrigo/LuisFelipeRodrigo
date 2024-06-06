@@ -9,8 +9,8 @@ These are some of the technologies and tools I work with and study:
 
 
 
-### Contatos:
-  Me encontre nestas redes sociais.
+### Contact:
+  Find me on these social media platforms.
 <div>
 <a href="https://www.linkedin.com/in/luis-felipe-rodrigo-silva-508347252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luis__fellipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
